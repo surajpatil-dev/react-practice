@@ -3,3 +3,8 @@
   color: darkred;
   font-weight: bold;
 }
+.solution {
+  border: 2px solid darkorchid;
+  padding: 2px;
+  margin: 10 px;
+}
